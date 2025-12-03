@@ -1,0 +1,7 @@
+{
+  "name": "Wails Nuxt Template",
+  "shortname": "wails-nuxt-template",
+  "author": "paulbrickwell",
+  "description": "A minimal template combining wails with Nuxt 4 for building cross-platform desktop applications using Nuxt. ",
+  "helpurl": "https://github.com/paulbrickwell/wails-nuxt-template"
+}
